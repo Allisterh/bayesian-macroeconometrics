@@ -8,6 +8,11 @@ contains the title page, the complete table of contents, the preface, and Chapte
 in full. Posted with the publisher's permission. The PDF is copyrighted material and is
 *not* covered by the code license below.
 
+**Research code** — [bvar-toolkit](https://github.com/joshuaccchan/bvar-toolkit)
+collects the replication packages from Joshua Chan's papers on large Bayesian VARs,
+together with a MATLAB library of the samplers, priors, marginal likelihoods and
+forecasting routines they share.
+
 ## Contents of the book
 
 Each chapter links to its MATLAB code; the R and Python ports mirror the same folder
