@@ -100,15 +100,11 @@ validated against the MATLAB version.
 | chapter13 | `compare_VAR_SV.m` | done | done | done |
 | chapter13 | `construct_IR.m` | done | done | done |
 | chapter13 | `estimate_TVPVAR.m` | done | done | done |
-| chapter13 | `estimate_TVPVAR_constL.m` | done | done | done |
 | chapter13 | `Minn_indep.m` | done | done | done |
 | chapter13 | `plotCI.m` | done | done | done |
 | chapter13 | `pred_VAR_homo.m` | done | done | done |
-| chapter13 | `pred_VAR_homo_adapt.m` | done | done | done |
 | chapter13 | `pred_VAR_OISV.m` | done | done | done |
-| chapter13 | `pred_VAR_OISV_adapt.m` | done | done | done |
 | chapter13 | `pred_VAR_SV.m` | done | done | done |
-| chapter13 | `pred_VAR_SV_adapt.m` | done | done | done |
 | chapter13 | `sample_B0.m` | done | done | done |
 | chapter13 | `sample_SVAR1para.m` | done | done | done |
 | chapter13 | `SURform.m` | done | done | done |
@@ -134,4 +130,3 @@ validated against the MATLAB version.
 | chapter14 | `SV_RW_gaussian_approx.m` | done | done | done |
 | chapter14 | `SVAR1.m` | done | done | done |
 | chapter14 | `VAR_CSV_o.m` | done | done | done |
-| chapter14 | `VAR_MASV_sol.m` | done | done | done |
